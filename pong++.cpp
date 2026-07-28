@@ -21,7 +21,7 @@ int main(){
     pad2.y = 340;
     pad2.x = 1245;
     
-    InitWindow(screenWidth, screenHeight, "Pong");
+    InitWindow(screenWidth, screenHeight, "Pong++");
     SetTargetFPS(60);
 
     while(WindowShouldClose() == false){
