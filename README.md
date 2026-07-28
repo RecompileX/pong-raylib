@@ -1,4 +1,4 @@
-# Classic Pong 1.0
+# Pong++
 
 A recreation of the classic Pong game made in **C++** using **Raylib**.
 
