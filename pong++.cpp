@@ -14,8 +14,8 @@ int main(){
     const int screenHeight = 800;
     ball.score1 = 0;
     ball.score2 = 0;
-    ball.veloX = 6;
-    ball.veloY = 6;
+    ball.veloX = 6.5;
+    ball.veloY = 6.5;
     pad1.y = 340;
     pad1.x = 10;
     pad2.y = 340;
